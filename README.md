@@ -45,6 +45,9 @@ cd ssfconv
 ### 安装python依赖
 
 该项目使用 python3 开发，依赖于 Crypto、pillow、numpy 库，最好使用相应的发行版的包管理器安装它们，或者使用 pip
+```shell
+pip install pillow numpy pycryptodome
+```
 
 ### 下载皮肤
 
